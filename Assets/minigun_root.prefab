@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4281696598007778309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4280425519288719916}
+  m_Layer: 31
+  m_Name: minigun_root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4280425519288719916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4281696598007778309}
+  m_LocalRotation: {x: -0.00000011099443, y: -0.7071068, z: -0.00000011099443, w: 0.7071068}
+  m_LocalPosition: {x: 0.000008875533, y: 0.000014100981, z: 0.018253285}
+  m_LocalScale: {x: 0.008400732, y: 0.008400732, z: 0.008400733}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4280510324990604335}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000017987417, y: 90, z: 0}
+--- !u!1 &4282318636563877659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4280510324990604335}
+  m_Layer: 31
+  m_Name: minigun_barrels
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4280510324990604335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4282318636563877659}
+  m_LocalRotation: {x: 0.5806729, y: -0.40327695, z: -0.58095217, w: 0.40333772}
+  m_LocalPosition: {x: -7.8398743, y: 0.002290766, z: 0.00000011369141}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4280425519288719916}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 89.977165, y: -20.448954, z: 90.01684}

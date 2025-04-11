@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 314dc1a3fce33284781f5bbf6a1f79b1
+timeCreated: 1735143667
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: hooge 05_55 Cyr2
+  fontNames:
+  - hooge 05_55 Cyr2
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

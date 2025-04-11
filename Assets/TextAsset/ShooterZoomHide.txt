@@ -1,0 +1,3 @@
+ComponentType vp_FPWeaponShooter
+MuzzleFlashPosition 0 -1 1
+ShellEjectPosition 0 -1 1

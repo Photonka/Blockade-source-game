@@ -1,0 +1,14 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPCamera
+PositionOffset 0 1.036 0.0
+
+//RotationKneeling 0
+//RotationStrafeRoll -2.5
+//ShakeSpeed 0.05
+//ShakeAmplitude 10 50 0
+//BobRate 0.5 1.0 0.5 0.5
+//BobAmplitude 5 4 15 -1
+//BobMaxInputVelocity 1.0
