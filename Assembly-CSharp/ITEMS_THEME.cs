@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x020000A4 RID: 164
+public enum ITEMS_THEME
+{
+	// Token: 0x04000ACD RID: 2765
+	STANDART = 1,
+	// Token: 0x04000ACE RID: 2766
+	LADY,
+	// Token: 0x04000ACF RID: 2767
+	ZOMBIE,
+	// Token: 0x04000AD0 RID: 2768
+	WWII,
+	// Token: 0x04000AD1 RID: 2769
+	NY,
+	// Token: 0x04000AD2 RID: 2770
+	HALLOWEEN
+}

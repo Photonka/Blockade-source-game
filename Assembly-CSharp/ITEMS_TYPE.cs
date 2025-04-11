@@ -1,0 +1,16 @@
+﻿using System;
+
+// Token: 0x020000A5 RID: 165
+public enum ITEMS_TYPE
+{
+	// Token: 0x04000AD4 RID: 2772
+	WEAPONS = 1,
+	// Token: 0x04000AD5 RID: 2773
+	VEHICLES,
+	// Token: 0x04000AD6 RID: 2774
+	CUSTOMIZATION,
+	// Token: 0x04000AD7 RID: 2775
+	AMMUNITION,
+	// Token: 0x04000AD8 RID: 2776
+	OTHER
+}

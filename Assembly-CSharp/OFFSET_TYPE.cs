@@ -1,0 +1,12 @@
+﻿using System;
+
+// Token: 0x020000AD RID: 173
+public enum OFFSET_TYPE
+{
+	// Token: 0x04000B47 RID: 2887
+	FROM_CENTER,
+	// Token: 0x04000B48 RID: 2888
+	IS_CENTER,
+	// Token: 0x04000B49 RID: 2889
+	SCREEN_OFFSET
+}
